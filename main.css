@@ -32,7 +32,7 @@ main{
     margin-bottom: 0;
 }
 .title-section-p2{
-    color: rgb(91, 118, 91);
+    color: rgb(91, 174, 91);
     font-size: 4vw;
     font-family: font1;
     font-weight: 500;   
@@ -100,13 +100,13 @@ div{
 button{
     text-align: center;
     align-items: center;
-    width:20%;
+    width:32vh;
     height: 6.5vh;
     font-family: sans-serif;
     color: white;
-    background-color: rgb(91, 118, 91) ;
+    background-color: rgb(91, 174, 91) ;
     border-radius: 5px;
-    font-size: 1vw;
+    font-size: 2.4vh;
     margin-top: 5px;
 }
 
@@ -122,4 +122,9 @@ button:hover{
 
 button:active{
     cursor: progress;
+}
+
+i{
+    padding: 5px;
+    font-size: 2.2vh;
 }
